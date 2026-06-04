@@ -27,7 +27,8 @@ body {
 
 .pixel-img {
     image-rendering: pixelated;
-    max-width: 100%
+    max-width: 100%;
+    display: block;
 }
 
 .download-area {
